@@ -1,0 +1,31 @@
+{
+  "sites": [
+    {
+      "key": "feiye1",
+      "name": "绯夜①",
+      "type": 1,
+      "api": "https://feiyi-t1c.pages.dev/api/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "feiye2",
+      "name": "绯夜②",
+      "type": 1,
+      "api": "https://feiyi-t1c.pages.dev/api2/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "feiye3",
+      "name": "绯夜③",
+      "type": 1,
+      "api": "https://feiyi-t1c.pages.dev/api3/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
